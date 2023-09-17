@@ -1,0 +1,15 @@
+description: null
+github_branch: HBRIDGE01A
+github_description: null
+github_repo: HBRIDGE01
+github_url: https://github.com/mlab-modules/HBRIDGE01
+homepage: false
+images:
+- doc/img/HBRIDGE01A_small.jpg
+- doc/img/HBRIDGE01A_Orig.jpg
+- doc/img/HBRIDGE01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: HBRIDGE01
+updated: '2023-09-17T11:30:30.634870+00:00'
